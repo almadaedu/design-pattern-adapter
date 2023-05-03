@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09777ef-b6a0-4f02-b563-af717cce0204" name="Changes" comment="" />
+    <list default="true" id="d09777ef-b6a0-4f02-b563-af717cce0204" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/Socket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter/Socket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/SocketAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter/SocketAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/SocketObjectAdapterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter/SocketObjectAdapterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/Volts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter/Volts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AdapterPatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AdapterPatternTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,9 +48,43 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\edual\OneDrive\Área de Trabalho\DesignPattern\Adapter\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AdapterPatternTest.testClassAdapter">
+    <configuration name="AdapterPatternTest.testClassAdapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adapter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdapterPatternTest" />
+      <option name="METHOD_NAME" value="testClassAdapter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdapterPatternTest.testObjectAdapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adapter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdapterPatternTest" />
+      <option name="METHOD_NAME" value="testObjectAdapter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdapterPatternTest.testClassAdapter" />
+        <item itemvalue="JUnit.AdapterPatternTest.testObjectAdapter" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
